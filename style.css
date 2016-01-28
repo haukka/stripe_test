@@ -1,0 +1,20 @@
+.center_div{
+    position: fixed;
+    width: 10%;
+    height: 10%;
+    left: 45%;
+    top: 40%;
+}
+
+.modal-dialog {
+    width: 350px;
+}
+
+.modal-header {
+    border: none;
+    padding: 0;
+}
+
+.modal-content {
+    padding: 10px;
+}
